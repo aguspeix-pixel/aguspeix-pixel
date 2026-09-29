@@ -19,6 +19,6 @@ Python · pandas · SQL · SQLite · Git · GitHub
 
 ## Trabajemos juntos
 
-📩 Escribime: **tu-mail@ejemplo.com**
+📩 Escribime: **aguspeix@gmail.com**
 
 *English: Python & SQL freelancer, focused on data cleaning, automation and reporting.*
